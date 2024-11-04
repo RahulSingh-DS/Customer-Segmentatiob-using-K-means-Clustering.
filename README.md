@@ -37,12 +37,12 @@ To run this project locally, follow these steps:
    - **Install required packages:**
    - pip install -r requirements.txt
 
-**Project Structure**
+## Project Structure
 - data/: Contains the dataset file.
 - notebooks/: Contains Jupyter notebooks for code,visualizations and analysis.
 - src/: Contains the main Python script for KMeans Clustering.
 - README.md: Provides an overview of the project.
 - requirements.txt: Lists all dependencies needed for the project.
 
-**License**
+## License
   - This project is licensed under the MIT License.
